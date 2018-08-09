@@ -1,4 +1,4 @@
-# Random-Scripts
+# Misc-Scripts-and-Challenge-Solutions
 
 A collection of random scripts and challenge solutions I've worked on over the years.
 
