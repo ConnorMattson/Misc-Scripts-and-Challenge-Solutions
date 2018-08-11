@@ -1,0 +1,44 @@
+[
+	{
+		"filename": "nzpc2008a",
+		"problem": "Get input 'n' and print triangles of that size until n = 0.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py",
+	}
+	{
+		"filename": "nzpc2008b",
+		"problem": "Sort a list of n songs alphabetically, process is repeated until n = 0.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py",
+	}
+	{
+		"filename": "nzpc2008c",
+		"problem": "Given a list of tennis points, outputs the number of games won by each player.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008c.py",
+	}
+	{
+		"filename": "nzpc2008d",
+		"problem": "Keeps track of the number of seats booked on a flight",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py",
+	}
+	{
+		"filename": "nzpc2008",
+		"problem": "",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008.py",
+	}
+	{
+		"filename": "",
+		"problem": "",
+		"problemSource": "",
+		"githubLink": "",
+	}
+
+]
