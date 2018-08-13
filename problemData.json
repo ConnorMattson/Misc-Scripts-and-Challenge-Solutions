@@ -1,14 +1,14 @@
 [
 	{
 		"filename": "nzpc2008a",
-		"problem": "Get input 'n' and print triangles of that size until n = 0.",
+		"problem": "Print triangles of size n.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py",
 	}
 	{
 		"filename": "nzpc2008b",
-		"problem": "Sort a list of n songs alphabetically, process is repeated until n = 0.",
+		"problem": "Sort a list of n songs alphabetically.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py",
@@ -26,6 +26,34 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py",
+	}
+	{
+		"filename": "nzpc2008e",
+		"problem": "Determines whether a book's spine is wide enough for horizontal labels or if vertical labels are required.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008e.py",
+	}
+	{
+		"filename": "nzpc2008f",
+		"problem": "Calculates the number of unique letters in a sentence.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008f.py",
+	}
+	{
+		"filename": "nzpc2008g",
+		"problem": "Given details about Cas and Becs' wardrobes, determines if they will be wearing the same outfits or not.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008g.py",
+	}
+	{
+		"filename": "nzpc2008h",
+		"problem": "Finds energy expended by each person on a particular exercise machine.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008h.py",
 	}
 	{
 		"filename": "nzpc2008",
