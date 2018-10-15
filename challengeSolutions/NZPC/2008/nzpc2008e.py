@@ -1,4 +1,4 @@
-# Problem E 2018 - Connor Mattson
+# Problem E 2008 - Connor Mattson
 
 lineInput = input("enter 'libraryName fontWidthInMM' or '# 0' to exit: ").split(' ')
 while lineInput != ["#", "0"]:

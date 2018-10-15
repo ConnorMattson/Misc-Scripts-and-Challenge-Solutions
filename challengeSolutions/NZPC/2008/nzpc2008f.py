@@ -1,4 +1,4 @@
-# Problem F 2018 - Connor Mattson
+# Problem F 2008 - Connor Mattson
 
 lineInput = list(input("Enter a sentence (or '#' to exit): "))
 while lineInput != ['#']:

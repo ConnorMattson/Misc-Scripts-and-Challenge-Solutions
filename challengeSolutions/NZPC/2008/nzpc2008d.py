@@ -1,4 +1,4 @@
-# Problem D - Connor Mattson
+# Problem D 2008 - Connor Mattson
 
 lineInput = input("Enter 'flightNumber seatsBooked' or '# 0' to exit: ")
 while lineInput != '# 0':
