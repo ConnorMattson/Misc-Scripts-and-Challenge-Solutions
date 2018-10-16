@@ -11,6 +11,10 @@
     <link rel="shortcut icon" href="" type="image/x-icon">
 
     <style>
+      img {
+        max-height: 20px;
+      }
+
       div {
         text-align: center;
         padding: 20px;
@@ -39,26 +43,35 @@
     </style>
 
     <script>
+      function filterDownloads() {
+        let filter = document.getElementById("filter").value;
+        let tableContents = "<tr><th> Filename </th><th> Problem Source </th><th> Problem </th><th> Points </th><th> Source code </th><th> Try me! </th></tr>\n";
+        let github = "https://github.com/ConnorMattson/Misc-Scripts-and-Challenge-Solutions/blob/master";
+        let pointValues = [3,10,30,100];
+        let allowedPoints = [];
+        pointValues.forEach((element) => { if (document.getElementById(String(element)).checked) allowedPoints.push(element) });
+
+
+        data.filter((element) => (element.filename.includes(filter) || element.problem.includes(filter)) && ~allowedPoints.indexOf(element.points)) 
+            .forEach(function(element) {
+              tableContents += "<tr><td>" + element.filename + "</td>";
+              tableContents += "<td><a href='" + element.problemLink + "'>" + element.problemSource + "</a></td>";
+              tableContents += "<td>" + element.problem + "</td>";
+              tableContents += "<td>" + element.points + "</td>";
+              tableContents += "<td><a href='" + github + element.githubLink + "'><img src='https://connormattson.github.io/media/projects/GitHub.svg'></a></td>";
+              tableContents += "<td> Coming soon... </td></tr>";
+            });
+        document.querySelector("table").innerHTML = tableContents;
+      }
+
       function loadData() {
+        data = []
         const xhr = new XMLHttpRequest();
-        xhr.overrideMimeType("application/json");
         xhr.open("GET", "https://connormattson.github.io/Misc-Scripts-and-Challenge-Solutions/problemData.json", true);
 
         xhr.onreadystatechange  = (function(response) {
-          const filterDownloads = (function() {
-            let data = JSON.parse(xhr.responseText).sort((a,b) => a.filename - b.filename);
-            return function(filter) {
-              let tableContents = "<tr><th> Filename </th><th> Problem Source </th><th> Problem </th><th> Try me! </th></tr>\n";
-              data.filter((element) => element.filename.includes(filter) || element.problem.includes(filter))
-                  .forEach(function(element) {
-                    tableContents += "<tr><td>" + element.filename + "</td>";
-                    tableContents += "<td>" + element.problemSource + "</td>";
-                    tableContents += "<td>" + element.problem + "</td>";
-                    tableContents += "<td> Coming soon! </td></tr>";
-                  });
-              document.querySelector("table").innerHTML = tableContents;
-            };
-          })();
+          data = JSON.parse(xhr.responseText);
+          filterDownloads("")
         });
 
         xhr.send(null);
@@ -69,7 +82,13 @@
   </head>
 
   <body>
-    <div>Search: <input type="text" oninput="filterDownloads(this.value);"/></div>
+    <div>
+      Search: <input type="text" id="filter" oninput="filterDownloads()"/><br>
+      Point value:  3<input type="checkbox" id="3" onclick="filterDownloads()" checked>
+                    10<input type="checkbox" id="10" onclick="filterDownloads()" checked>
+                    30<input type="checkbox" id="30" onclick="filterDownloads()" checked>
+                    100<input type="checkbox" id="100" onclick="filterDownloads()" checked>
+    </div>
     <table>
     </table>
   </body>
