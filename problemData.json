@@ -4,181 +4,167 @@
 		"problem": "Print triangles of size n.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py"
 	},
 	{
 		"filename": "nzpc2008b",
 		"problem": "Sort a list of n songs alphabetically.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py"
 	},
 	{
 		"filename": "nzpc2008c",
 		"problem": "Given a list of tennis points, outputs the number of games won by each player.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008c.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008c.py"
 	},
 	{
 		"filename": "nzpc2008d",
 		"problem": "Keeps track of the number of seats booked on a flight",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py"
 	},
 	{
 		"filename": "nzpc2008e",
 		"problem": "Determines whether a book's spine is wide enough for horizontal labels or if vertical labels are required.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008e.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008e.py"
 	},
 	{
 		"filename": "nzpc2008f",
 		"problem": "Calculates the number of unique letters in a sentence.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008f.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008f.py"
 	},
 	{
 		"filename": "nzpc2008g",
 		"problem": "Given details about Cas and Becs' wardrobes, determines if they will be wearing the same outfits or not.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008g.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008g.py"
 	},
 	{
 		"filename": "nzpc2008h",
 		"problem": "Finds energy expended by each person on a particular exercise machine.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008h.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008h.py"
 	},
 	{
 		"filename": "nzpc2009a",
 		"problem": "Removes the kth student from a circle of n students until no students remain, prints the index of the last four students to be removed.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009a.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009a.py"
 	},
 	{
 		"filename": "nzpc2009b",
 		"problem": "Given 3 of the length, width, height, and volume of a cuboid, finds the missing value.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009b.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009b.py"
 	},
 	{
 		"filename": "nzpc2009c",
 		"problem": "Track the number of passengers on a bus.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009c.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009c.py"
 	},
 	{
 		"filename": "nzpc2009d",
 		"problem": "Takes all words in a sentence and reverses the letters other than the first and last.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009d.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009d.py"
 	},
 	{
 		"filename": "nzpc2009e",
 		"problem": "Given a list of noughts and crosses moves, determines whether a player has won.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009e.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009e.py"
 	},
 	{
 		"filename": "nzpc2009f",
 		"problem": "Given text with a final line of '#', checks that brackets are properly nested.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009f.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009f.py"
 	},
 	{
 		"filename": "nzpc2009g",
 		"problem": "Given a list of seat numbers and service problems on a given flight, outputs the number of passengers to accrue 200 points.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009g.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009g.py"
 	},
 	{
 		"filename": "nzpc2009h",
 		"problem": "Given a list of words, outputs the word with the most anagrams",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009h.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2009h.py"
 	},
 	{
 		"filename": "nzpc2010a",
 		"problem": "Classifies clothes by size",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010a.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010a.py"
 	},
 	{
 		"filename": "nzpc2010b",
 		"problem": "Given information about an arithmetic sequence, finds the index of a number if it is in the sequence.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010b.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010b.py"
 	},
 	{
 		"filename": "nzpc2010c",
 		"problem": "Groups objects into pairs with a group of 3 if necessary.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010c.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010c.py"
 	},
 	{
 		"filename": "nzpc2010d",
 		"problem": "Tracks stock count across various sales and restocks.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010d.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010d.py"
 	},
 	{
 		"filename": "nzpc2010e",
 		"problem": "Given a list of students and demerits in a given week, outputs the number of students to accrue 100 points.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010e.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010e.py"
 	},
 	{
 		"filename": "nzpc2010f",
 		"problem": "Determines the houses not visited by a given postman's route.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010f.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010f.py"
 	},
 	{
 		"filename": "nzpc2010g",
 		"problem": "Given a boggle-esque game's solutions, finds the letters in the initial problem.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010g.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010g.py"
 	},
 	{
 		"filename": "nzpc2010h",
 		"problem": "Finds the number of loops in a Secret Santa scenario.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010h.py",
+		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2010h.py"
 	}
-	// {
-	// 	"filename": "nzpc2011",
-	// 	"problem": "",
-	// 	"problemSource": "NZPC",
-	// 	"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
-	// 	"githubLink": "/challengeSolutions/NZPC/2008/nzpc2011.py",
-	// }
-	// {
-	// 	"filename": "",
-	// 	"problem": "",
-	// 	"problemSource": "",
-	// 	"githubLink": "",
-	// }
-
 ]
