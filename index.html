@@ -52,7 +52,7 @@
         pointValues.forEach((element) => { if (document.getElementById(element).checked) allowedPoints.push(element) });
 
 
-        data.filter((element) => (element.filename.includes(filter) || element.problem.includes(filter)) && ~allowedPoints.indexOf(element.points)) 
+        data.filter((element) => (element.filename.includes(filter) || element.problem.includes(filter)) && (allowedPoints.indexOf(element.points) > -1)) 
             .forEach(function(element) {
               tableContents += "<tr><td>" + element.filename + "</td>";
               tableContents += "<td><a href='" + element.problemLink + "'>" + element.problemSource + "</a></td>";
