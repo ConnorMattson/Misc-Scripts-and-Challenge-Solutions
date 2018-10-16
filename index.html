@@ -47,9 +47,9 @@
         let filter = document.getElementById("filter").value;
         let tableContents = "<tr><th> Filename </th><th> Problem Source </th><th> Problem </th><th> Points </th><th> Source code </th><th> Try me! </th></tr>\n";
         let github = "https://github.com/ConnorMattson/Misc-Scripts-and-Challenge-Solutions/blob/master";
-        let pointValues = [3,10,30,100];
+        let pointValues = ["3", "10", "30", "100"];
         let allowedPoints = [];
-        pointValues.forEach((element) => { if (document.getElementById(String(element)).checked) allowedPoints.push(element) });
+        pointValues.forEach((element) => { if (document.getElementById(element).checked) allowedPoints.push(element) });
 
 
         data.filter((element) => (element.filename.includes(filter) || element.problem.includes(filter)) && ~allowedPoints.indexOf(element.points)) 

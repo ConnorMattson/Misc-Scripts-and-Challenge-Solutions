@@ -5,7 +5,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2008b",
@@ -13,7 +13,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2008c",
@@ -21,7 +21,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008c.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2008d",
@@ -29,7 +29,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2008e",
@@ -37,7 +37,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008e.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2008f",
@@ -45,7 +45,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008f.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2008g",
@@ -53,7 +53,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008g.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2008h",
@@ -61,7 +61,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008h.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2009a",
@@ -69,7 +69,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009a.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2009b",
@@ -77,7 +77,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009b.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2009c",
@@ -85,7 +85,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009c.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2009d",
@@ -93,7 +93,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009d.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2009e",
@@ -101,7 +101,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009e.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2009f",
@@ -109,7 +109,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009f.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2009g",
@@ -117,7 +117,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009g.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2009h",
@@ -125,7 +125,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009h.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2010a",
@@ -133,7 +133,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010a.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2010b",
@@ -141,7 +141,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010b.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2010c",
@@ -149,7 +149,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010c.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2010d",
@@ -157,7 +157,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010d.py",
-		"points": 3
+		"points": "3"
 	},
 	{
 		"filename": "nzpc2010e",
@@ -165,7 +165,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010e.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2010f",
@@ -173,7 +173,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010f.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2010g",
@@ -181,7 +181,7 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010g.py",
-		"points": 10
+		"points": "10"
 	},
 	{
 		"filename": "nzpc2010h",
@@ -189,6 +189,6 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010h.py",
-		"points": 10
+		"points": "10"
 	}
 ]
