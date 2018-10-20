@@ -190,5 +190,69 @@
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010h.py",
 		"points": "10"
+	},
+	{
+		"filename": "nzpc2011a",
+		"problem": "Given two integers, finds out if the first is a multiple or factor (or neither) of the second.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2011b",
+		"problem": "Finds whether more odd numbered or even numbered cards showed up in a sequence of playing cards.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2011c",
+		"problem": "Determines how many items were found in certain grid cells given a list of details about an archaeological dig.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2011d",
+		"problem": "Finds the number of unique items in a list",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2011e",
+		"problem": "Finds the frequency of each digit 0-9 in a list of house numbers with gaps.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2011f",
+		"problem": "Given a list of conditions met by students who were not noisy that night, finds the noisiest students in the hostel.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2011g",
+		"problem": "Given a list of products and customer purchases, finds the total cost of purchases for items that will arrive in time to satisfy the customer.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2011h",
+		"problem": "Replaces repeated letters with symbols",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011h.py",
+		"points": "10"
 	}
 ]
