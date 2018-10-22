@@ -1,4 +1,4 @@
-# Problem E - Connor Mattson
+# Problem G 2010 - Connor Mattson
 
 n = input("How many products will you be entering: ")
 while n != '0':

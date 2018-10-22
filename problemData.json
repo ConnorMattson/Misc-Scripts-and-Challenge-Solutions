@@ -255,4 +255,68 @@
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011h.py",
 		"points": "10"
 	}
+	{
+		"filename": "nzpc2012a",
+		"problem": "Determines whether a given year was a leap year or not.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "3"
+	}
+	{
+		"filename": "nzpc2012b",
+		"problem": "Given the lengths of eachs side of a triangle, classify it as equilateral, isoscoles, scalene, or invalid.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "3"
+	}
+	{
+		"filename": "nzpc2012c",
+		"problem": "Given a start time and a duration, determine what time an event will end.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "3"
+	}
+	{
+		"filename": "nzpc2012d",
+		"problem": "Monitors the number of cars in a carpark given its capacity and a data stream of cars entering and leaving.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "3"
+	}
+	{
+		"filename": "nzpc2012e",
+		"problem": "Parse HTML for correctly nested tags (attributes and self closing tags are allowed).",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "10"
+	}
+	{
+		"filename": "nzpc2012f",
+		"problem": "Counts the number of times a pattern occurs inside a grid.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "10"
+	}
+	{
+		"filename": "nzpc2012g",
+		"problem": "Orders a list of clothes by size and then by colour alphabetically.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "10"
+	}
+	{
+		"filename": "nzpc2012h",
+		"problem": "<p style='color:red;'> NOT YET FINISHED </p><br/> Knapsack problem. Find the best allocation of deals to save the most money.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
+		"points": "10"
+	}
 ]
