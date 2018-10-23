@@ -313,7 +313,7 @@
 	},
 	{
 		"filename": "nzpc2012h",
-		"problem": "<p style='color:red;'> NOT YET FINISHED </p><br/> Knapsack problem. Find the best allocation of deals to save the most money.",
+		"problem": "<p style='color:red;'> NOT YET FINISHED </p>Knapsack problem. Find the best allocation of deals to save the most money.",
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
