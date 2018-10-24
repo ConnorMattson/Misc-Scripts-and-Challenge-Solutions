@@ -318,5 +318,69 @@
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "10"
+	},
+	{
+		"filename": "nzpc2013a",
+		"problem": "Given a list of scores in a golf game, finds the best (i.e. the smallest) score.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2013b",
+		"problem": "Tracks the score of players across rounds of Rock, Paper, Scissors, Lizard, Spock.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2013c",
+		"problem": "Given the number of each unit of currency (e.g. 4, 10 cent coints and 2 $1 coins) returns the total amount.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2013d",
+		"problem": "Given a decimal number, finds the number of characters in the decimal equivalent and how many of those characters are ones.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2013e",
+		"problem": "Given four positive integers: w, x, y, z. Takes the absolute values of w-x, x-y, y-z, and z-w and repeats until all numbers are 0, returning the number of required iterations.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2013f",
+		"problem": "Given a dictionary, finds the anagrams in it for a list of words.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2013g",
+		"problem": "Given a list of students and the order in which they passed or failed exams, determines the number of students to receive an A grade.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2013h",
+		"problem": "Given three groups of cards in a card game, determines whether they count as a 'set' or not.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013h.py",
+		"points": "10"
 	}
 ]
