@@ -312,14 +312,6 @@
 		"points": "10"
 	},
 	{
-		"filename": "nzpc2012h",
-		"problem": "<p style='color:red;'> NOT YET FINISHED </p>Knapsack problem. Find the best allocation of deals to save the most money.",
-		"problemSource": "NZPC",
-		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
-		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
-		"points": "10"
-	},
-	{
 		"filename": "nzpc2013a",
 		"problem": "Given a list of scores in a golf game, finds the best (i.e. the smallest) score.",
 		"problemSource": "NZPC",
@@ -381,6 +373,70 @@
 		"problemSource": "NZPC",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013h.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2014a",
+		"problem": "Determines whether club members should be classified as open or senior.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2014b",
+		"problem": "Finds the common ratio of a sequence if it is a geometric progression.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2014c",
+		"problem": "Counts the occurences of a particular digit within a given range.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2014d",
+		"problem": "Given run-length encoded image data, display the image.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2014e",
+		"problem": "Given a list of students and demerits in a given week, outputs the number of students to accrue 50 points.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2014f",
+		"problem": "Determines the validity of an 'alpha puzzle' inputed.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2014g",
+		"problem": "Fizz Buzz given a start and end number.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2014h",
+		"problem": "Decodes a given line of text based on the given encryption scheme.",
+		"problemSource": "NZPC",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014h.py",
 		"points": "10"
 	}
 ]
