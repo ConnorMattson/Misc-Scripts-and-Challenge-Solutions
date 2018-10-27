@@ -1,34 +1,18 @@
-problems = input()
-compCounter = 1
+# Problem H 2015 - Connor Mattson
 
-while problems != "0":
-	points = list(input().split(' '))
-	teams = int(input())
-	teamList = []
+problems = int(input("How many problems does this competition have? (or '0' to exit): "))
+while problems != 0:
+	points = [int(x) for x in input("How many points is each question worth? e.g. '1 1 3 5 10': ").split(' ')]
+	
+	teams = {}
+	for i in range(int(input("How many teams competed? "))):
+		teamData = input("""Enter the team name, followed by the number of submissions and minutes after which a successful submission was made, seperated with '/'
+if no submission is successful, enter '-' in place of the minutes e.g. \"Connor's team,0/-,4/-,10/-\": """).split(',')
+		teamPoints = sum([a*b for a,b in zip([1 if '-' not in x else 0 for x in teamData[1:]], points)])
+		teams[teamPoints] = teams[teamPoints] + [teamData[0]] if teamPoints in teams else [teamData[0]]
+		
+	for i in range(len(teams)):
+		for team in sorted(teams[sorted(teams.keys(), reverse=True)[i]]):
+			print(str(i + 1), team, sorted(teams.keys(), reverse=True)[i])
 
-	for i in range(teams):
-		teamData = {}
-		data = input().split(',')
-		teamData['name'] = data[0]
-		teamData['value'] = 0
-
-		for i in range(len(points)):
-			indexOfSlash = data[i+1].index('/')
-			if data[i+1][indexOfSlash+1] != '-':
-				teamData['value'] += int(points[i])
-
-		teamList.append(teamData)
-
-	teamList = sorted(teamList, key=lambda k: k['value'], reverse=True) 
-	rankCounter = 1
-
-	print('Contest', compCounter)
-	for i in range(len(teamList)-1):
-		print(rankCounter, teamList[i]['name'], teamList[i]['value'])
-		if teamList[i]['value'] != teamList[i+1]['value']:
-			rankCounter += 1
-
-	print(rankCounter, teamList[-1]['name'], teamList[-1]['value'])
-
-	compCounter += 1
-	problems = input()
+	problems = int(input("How many problems does this competition have? (or '0' to exit): "))

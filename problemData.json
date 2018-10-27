@@ -2,7 +2,7 @@
 	{
 		"filename": "nzpc2008a",
 		"problem": "Print triangles of size n.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008a.py",
 		"points": "3"
@@ -10,7 +10,7 @@
 	{
 		"filename": "nzpc2008b",
 		"problem": "Sort a list of n songs alphabetically.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008b.py",
 		"points": "3"
@@ -18,7 +18,7 @@
 	{
 		"filename": "nzpc2008c",
 		"problem": "Given a list of tennis points, outputs the number of games won by each player.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008c.py",
 		"points": "3"
@@ -26,7 +26,7 @@
 	{
 		"filename": "nzpc2008d",
 		"problem": "Keeps track of the number of seats booked on a flight",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008d.py",
 		"points": "3"
@@ -34,7 +34,7 @@
 	{
 		"filename": "nzpc2008e",
 		"problem": "Determines whether a book's spine is wide enough for horizontal labels or if vertical labels are required.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008e.py",
 		"points": "10"
@@ -42,7 +42,7 @@
 	{
 		"filename": "nzpc2008f",
 		"problem": "Calculates the number of unique letters in a sentence.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008f.py",
 		"points": "10"
@@ -50,7 +50,7 @@
 	{
 		"filename": "nzpc2008g",
 		"problem": "Given details about Cas and Becs' wardrobes, determines if they will be wearing the same outfits or not.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008g.py",
 		"points": "10"
@@ -58,7 +58,7 @@
 	{
 		"filename": "nzpc2008h",
 		"problem": "Finds energy expended by each person on a particular exercise machine.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2008",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2008.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2008/nzpc2008h.py",
 		"points": "10"
@@ -66,7 +66,7 @@
 	{
 		"filename": "nzpc2009a",
 		"problem": "Removes the kth student from a circle of n students until no students remain, prints the index of the last four students to be removed.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009a.py",
 		"points": "3"
@@ -74,7 +74,7 @@
 	{
 		"filename": "nzpc2009b",
 		"problem": "Given 3 of the length, width, height, and volume of a cuboid, finds the missing value.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009b.py",
 		"points": "3"
@@ -82,7 +82,7 @@
 	{
 		"filename": "nzpc2009c",
 		"problem": "Track the number of passengers on a bus.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009c.py",
 		"points": "3"
@@ -90,7 +90,7 @@
 	{
 		"filename": "nzpc2009d",
 		"problem": "Takes all words in a sentence and reverses the letters other than the first and last.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009d.py",
 		"points": "3"
@@ -98,7 +98,7 @@
 	{
 		"filename": "nzpc2009e",
 		"problem": "Given a list of noughts and crosses moves, determines whether a player has won.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009e.py",
 		"points": "10"
@@ -106,7 +106,7 @@
 	{
 		"filename": "nzpc2009f",
 		"problem": "Given text with a final line of '#', checks that brackets are properly nested.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009f.py",
 		"points": "10"
@@ -114,7 +114,7 @@
 	{
 		"filename": "nzpc2009g",
 		"problem": "Given a list of seat numbers and service problems on a given flight, outputs the number of passengers to accrue 200 points.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009g.py",
 		"points": "10"
@@ -122,7 +122,7 @@
 	{
 		"filename": "nzpc2009h",
 		"problem": "Given a list of words, outputs the word with the most anagrams",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2009",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2009.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2009/nzpc2009h.py",
 		"points": "10"
@@ -130,7 +130,7 @@
 	{
 		"filename": "nzpc2010a",
 		"problem": "Classifies clothes by size",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010a.py",
 		"points": "3"
@@ -138,7 +138,7 @@
 	{
 		"filename": "nzpc2010b",
 		"problem": "Given information about an arithmetic sequence, finds the index of a number if it is in the sequence.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010b.py",
 		"points": "3"
@@ -146,7 +146,7 @@
 	{
 		"filename": "nzpc2010c",
 		"problem": "Groups objects into pairs with a group of 3 if necessary.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010c.py",
 		"points": "3"
@@ -154,7 +154,7 @@
 	{
 		"filename": "nzpc2010d",
 		"problem": "Tracks stock count across various sales and restocks.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010d.py",
 		"points": "3"
@@ -162,7 +162,7 @@
 	{
 		"filename": "nzpc2010e",
 		"problem": "Given a list of students and demerits in a given week, outputs the number of students to accrue 100 points.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010e.py",
 		"points": "10"
@@ -170,7 +170,7 @@
 	{
 		"filename": "nzpc2010f",
 		"problem": "Determines the houses not visited by a given postman's route.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010f.py",
 		"points": "10"
@@ -178,7 +178,7 @@
 	{
 		"filename": "nzpc2010g",
 		"problem": "Given a boggle-esque game's solutions, finds the letters in the initial problem.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010g.py",
 		"points": "10"
@@ -186,7 +186,7 @@
 	{
 		"filename": "nzpc2010h",
 		"problem": "Finds the number of loops in a Secret Santa scenario.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2010",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2010.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2010/nzpc2010h.py",
 		"points": "10"
@@ -194,7 +194,7 @@
 	{
 		"filename": "nzpc2011a",
 		"problem": "Given two integers, finds out if the first is a multiple or factor (or neither) of the second.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011a.py",
 		"points": "3"
@@ -202,7 +202,7 @@
 	{
 		"filename": "nzpc2011b",
 		"problem": "Finds whether more odd numbered or even numbered cards showed up in a sequence of playing cards.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011b.py",
 		"points": "3"
@@ -210,7 +210,7 @@
 	{
 		"filename": "nzpc2011c",
 		"problem": "Determines how many items were found in certain grid cells given a list of details about an archaeological dig.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011c.py",
 		"points": "3"
@@ -218,7 +218,7 @@
 	{
 		"filename": "nzpc2011d",
 		"problem": "Finds the number of unique items in a list",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011d.py",
 		"points": "3"
@@ -226,7 +226,7 @@
 	{
 		"filename": "nzpc2011e",
 		"problem": "Finds the frequency of each digit 0-9 in a list of house numbers with gaps.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011e.py",
 		"points": "10"
@@ -234,7 +234,7 @@
 	{
 		"filename": "nzpc2011f",
 		"problem": "Given a list of conditions met by students who were not noisy that night, finds the noisiest students in the hostel.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011f.py",
 		"points": "10"
@@ -242,7 +242,7 @@
 	{
 		"filename": "nzpc2011g",
 		"problem": "Given a list of products and customer purchases, finds the total cost of purchases for items that will arrive in time to satisfy the customer.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011g.py",
 		"points": "10"
@@ -250,7 +250,7 @@
 	{
 		"filename": "nzpc2011h",
 		"problem": "Replaces repeated letters with symbols",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2011",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2011.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2011/nzpc2011h.py",
 		"points": "10"
@@ -258,7 +258,7 @@
 	{
 		"filename": "nzpc2012a",
 		"problem": "Determines whether a given year was a leap year or not.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "3"
@@ -266,7 +266,7 @@
 	{
 		"filename": "nzpc2012b",
 		"problem": "Given the lengths of eachs side of a triangle, classify it as equilateral, isoscoles, scalene, or invalid.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "3"
@@ -274,7 +274,7 @@
 	{
 		"filename": "nzpc2012c",
 		"problem": "Given a start time and a duration, determine what time an event will end.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "3"
@@ -282,7 +282,7 @@
 	{
 		"filename": "nzpc2012d",
 		"problem": "Monitors the number of cars in a carpark given its capacity and a data stream of cars entering and leaving.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "3"
@@ -290,7 +290,7 @@
 	{
 		"filename": "nzpc2012e",
 		"problem": "Parse HTML for correctly nested tags (attributes and self closing tags are allowed).",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "10"
@@ -298,7 +298,7 @@
 	{
 		"filename": "nzpc2012f",
 		"problem": "Counts the number of times a pattern occurs inside a grid.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "10"
@@ -306,7 +306,7 @@
 	{
 		"filename": "nzpc2012g",
 		"problem": "Orders a list of clothes by size and then by colour alphabetically.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2012",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2012.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2012/nzpc2012.py",
 		"points": "10"
@@ -314,7 +314,7 @@
 	{
 		"filename": "nzpc2013a",
 		"problem": "Given a list of scores in a golf game, finds the best (i.e. the smallest) score.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013a.py",
 		"points": "3"
@@ -322,7 +322,7 @@
 	{
 		"filename": "nzpc2013b",
 		"problem": "Tracks the score of players across rounds of Rock, Paper, Scissors, Lizard, Spock.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013b.py",
 		"points": "3"
@@ -330,7 +330,7 @@
 	{
 		"filename": "nzpc2013c",
 		"problem": "Given the number of each unit of currency (e.g. 4, 10 cent coints and 2 $1 coins) returns the total amount.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013c.py",
 		"points": "3"
@@ -338,7 +338,7 @@
 	{
 		"filename": "nzpc2013d",
 		"problem": "Given a decimal number, finds the number of characters in the decimal equivalent and how many of those characters are ones.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013d.py",
 		"points": "3"
@@ -346,7 +346,7 @@
 	{
 		"filename": "nzpc2013e",
 		"problem": "Given four positive integers: w, x, y, z. Takes the absolute values of w-x, x-y, y-z, and z-w and repeats until all numbers are 0, returning the number of required iterations.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013e.py",
 		"points": "10"
@@ -354,7 +354,7 @@
 	{
 		"filename": "nzpc2013f",
 		"problem": "Given a dictionary, finds the anagrams in it for a list of words.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013f.py",
 		"points": "10"
@@ -362,7 +362,7 @@
 	{
 		"filename": "nzpc2013g",
 		"problem": "Given a list of students and the order in which they passed or failed exams, determines the number of students to receive an A grade.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013g.py",
 		"points": "10"
@@ -370,7 +370,7 @@
 	{
 		"filename": "nzpc2013h",
 		"problem": "Given three groups of cards in a card game, determines whether they count as a 'set' or not.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2013",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2013.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2013/nzpc2013h.py",
 		"points": "10"
@@ -378,7 +378,7 @@
 	{
 		"filename": "nzpc2014a",
 		"problem": "Determines whether club members should be classified as open or senior.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014a.py",
 		"points": "3"
@@ -386,7 +386,7 @@
 	{
 		"filename": "nzpc2014b",
 		"problem": "Finds the common ratio of a sequence if it is a geometric progression.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014b.py",
 		"points": "3"
@@ -394,7 +394,7 @@
 	{
 		"filename": "nzpc2014c",
 		"problem": "Counts the occurences of a particular digit within a given range.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014c.py",
 		"points": "3"
@@ -402,7 +402,7 @@
 	{
 		"filename": "nzpc2014d",
 		"problem": "Given run-length encoded image data, display the image.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014d.py",
 		"points": "3"
@@ -410,7 +410,7 @@
 	{
 		"filename": "nzpc2014e",
 		"problem": "Given a list of students and demerits in a given week, outputs the number of students to accrue 50 points.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014e.py",
 		"points": "10"
@@ -418,7 +418,7 @@
 	{
 		"filename": "nzpc2014f",
 		"problem": "Determines the validity of an 'alpha puzzle' inputed.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014f.py",
 		"points": "10"
@@ -426,7 +426,7 @@
 	{
 		"filename": "nzpc2014g",
 		"problem": "Fizz Buzz given a start and end number.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014g.py",
 		"points": "10"
@@ -434,9 +434,73 @@
 	{
 		"filename": "nzpc2014h",
 		"problem": "Decodes a given line of text based on the given encryption scheme.",
-		"problemSource": "NZPC",
+		"problemSource": "NZPC 2014",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2014.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2014/nzpc2014h.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2015a",
+		"problem": "Finds the tallest person in a group.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2015b",
+		"problem": "Given a list of security questions and answers, where an answer is specific letters and the index of those letters, checks if the answer is correct.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2015c",
+		"problem": "Converts between base 10 and base x given a creature with x appendages.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2015d",
+		"problem": "Given a stride size and the number of steps taken, outputs the distance travelled.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2015e",
+		"problem": "Given details about the various discounts applied to a purchase, finds the final price.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2015f",
+		"problem": "Decrypts a message using a Caesar cypher based on a given date.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2015g",
+		"problem": "Plots an equation of the form y = mx + c.",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2015h",
+		"problem": "Given the points value of different competition questions and details about the problems solved by each team, outputs a scoreboard",
+		"problemSource": "NZPC 2015",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015h.py",
 		"points": "10"
 	}
 ]

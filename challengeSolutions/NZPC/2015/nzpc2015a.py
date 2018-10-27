@@ -1,28 +1,13 @@
-# Problem A - Team 19
+# Problem A 2015 - Connor Mattson
 
-numberLines = int(input())
+numberLines = int(input("How many names to compare? (or 0 to exit) "))
 while numberLines != 0:
-
-	names = []
-	heights = []
+	names = {}
 
 	for i in range(numberLines):
-		data = input().split(' ')
-		names.append(data[0])
-		heights.append(float(data[1]))
+		data = input("Enter a name and height, e.g. 'John 1.75': ").split(' ')
+		names[data[0]] = data[1]
 
-	maxValue = 0.0
-	for i in heights:
-		if i > maxValue:
-			maxValue = i
-
-	msg = []
-
-	for i in names:
-		if heights[names.index(i)] == maxValue:
-			msg.append(i)
-
-	msg = ' '.join(msg)
-	print(msg)
-	
-	numberLines = int(input())
+	tallest = [name for name in names if names[name] == max(names.values())][0]
+	print("The tallest person is {} with a height of {}.".format(tallest, names[tallest]))
+	numberLines = int(input("How many names to compare? (or 0 to exit) "))

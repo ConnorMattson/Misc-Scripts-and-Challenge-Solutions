@@ -1,34 +1,10 @@
-# Problem G - Team 19
+# Problem G 2015 - Connor Mattson
 
-graphs = int(input())
-for i in range(graphs):
-	data = input().split(' ')
+for i in range(int(input("How many graphs will you be entering? "))):
+	data = [int(x) for x in input("Enter 'm c' for the equation y = mx + c, e.g. '2 2': ").split(' ')]
+	
+	print("y = {}x + {}".format(*data))
 	dataPoints = []
-	
-	for i in range(10):
-		i += 1
-		dataPoints.append((int(data[0]) * i) + int(data[1]))
-	
-	graph = []
-	for i in range(dataPoints[-1] + 1):
-		graph.append('*')
-	
-	
-	counter = 0
-	for i in dataPoints:
-		if counter != 0:
-			graph[(dataPoints[-1]) - i] = ('*' + counter*' ' + '*')
-		else:
-			graph[(dataPoints[-1]) - i] = ('*' + '*')
-		counter += 1
-	
-	if int(data[0]) == 0:
-		print(data[1])
-		graph[(dataPoints[-1]) - int(data[1])] = '***********'
-	
-	graph[-1] = '***********'
-	
-	
-	print('y = ' + data[0] + 'x + ' + data[1])
-	for i in graph:
-		print(i)
+	for x in range(1,11): dataPoints.append(data[0] * x + data[1])
+	for y in range(max(dataPoints), 0, -1): print("*" + " "*(dataPoints.index(y)) + "*" if y in dataPoints else '*')
+	print("***********")

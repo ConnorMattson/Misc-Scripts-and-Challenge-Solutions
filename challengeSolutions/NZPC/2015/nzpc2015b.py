@@ -1,31 +1,10 @@
-# Problem B - Team 19
+# Problem B 2015 - Connor Mattson
 
-
-counter = 1
-numberCustomers = int(input())
-for i in range(numberCustomers):
+for i in range(int(input("How many customers do you want to process? "))):
 
 	questions = []
-
-	customerq = int(input())
-	for i in range(customerq):
-		question = input()
-		questions.append(question)
+	for questionNum in range(int(input("how many security questions does customer {} have? ".format(i + 1)))): questions.append(input("Enter question {}: ".format(questionNum)).replace(' ',''))
 	
-	for i in range(len(questions)):
-		temp = questions[i].split(' ')
-		questions[i] = ''.join(temp)
-	
-	
-	print('Customer', counter)
-	
-	customera = int(input())
-	for i in range(customera):
-		answer = input().split(' ')
-		temp = questions[int(answer[0]) - 1]
-		if answer[3] == temp[int(answer[1]) - 1] and answer[4] == temp[int(answer[2]) - 1]:
-			print('correct')
-		else:
-			print('error')
-			
-	counter += 1
+	for answer in range(int(input("How many answers do you with to test? "))):
+		data = input("Enter answer {} in the form: number of the security question, two indexes of characters, the two characters. e.g. '1 5 7 P R': ").split(' ')
+		print("Correct" if (questions[int(data[0]) - 1][int(data[1]) - 1] == data[3] and questions[int(data[0]) - 1][int(data[2]) - 1] == data[4]) else "Error")
