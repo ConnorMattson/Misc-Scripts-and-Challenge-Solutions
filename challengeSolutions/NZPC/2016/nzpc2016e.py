@@ -1,20 +1,10 @@
-key = int(input())
-data = input()
+# Problem E 2016 - Connor Mattson
 
-new = ''
-for i in data:
-	if i in 'abcdefghijklmnopqrstuvwxyz':
-		temp = ord(i) - key
-		if temp < 97:
-			temp = temp - 97 + 123
+key = int(input("Enter the key to use: "))
+message = list(input("Enter the message to decrypt: "))
 
-		new += chr(temp)
-
-		key += 1
-		if key > 25:
-			key = 1
-
-	else:
-		new += i
-
-print(new)
+for i in range(len(message)):
+	if ord(message[i]) > 96 and ord(message[i]) < 123:
+		message[i] = chr((ord(message[i]) - 97 - key) % 26 + 97)
+		key = key % 25 + 1
+print(''.join(message))

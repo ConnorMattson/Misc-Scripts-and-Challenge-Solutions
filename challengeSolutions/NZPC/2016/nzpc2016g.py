@@ -1,20 +1,13 @@
-data = int(input())
+# Problem G 2016 - Connor Mattson
 
+data = int(input("Which box (1-50) is the rabbit hidden in? enter '0' to exit: "))
 while data != 0:
 
-	attempts = ['25']
-	counter = 25
-	lower = 1
-	upper = 50
-	while counter != data:
-		if counter > data:
-			upper = counter -1
-			counter = (upper + lower) // 2
-		elif counter < data:
-			lower = counter +1
-			counter = (upper + lower) // 2
-		attempts.append(str(counter))	
+	attempts = [25]
+	lower, upper = [1, 50]
+	while attempts[-1] != data:
+		lower, upper = [lower, attempts[-1] - 1] if attempts[-1] > data else [attempts[-1] + 1, upper]
+		attempts.append((upper + lower) // 2)
 
-	print(' '.join(attempts))
-	data = int(input())
-
+	print("search in the order: " + ' '.join([str(x) for x in attempts]))
+	data = int(input("Which box (1-50) is the rabbit hidden in? enter '0' to exit: "))

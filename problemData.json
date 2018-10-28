@@ -502,5 +502,69 @@
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2015.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2015/nzpc2015h.py",
 		"points": "10"
+	},
+	{
+		"filename": "nzpc2016a",
+		"problem": "Given a list of possible purchases, finds the second cheapest.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2016b",
+		"problem": "Given a sentence, finds the number of 'holes' in it. For example 'O' is one big hole where as 'B' is two.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2016c",
+		"problem": "Given a year, determines whether it contained a Summer Olympic games or not.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2016d",
+		"problem": "Is it possible to delete a letter from the word to make a palindrome.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2016e",
+		"problem": "Given a cypher key and an encrypted message, decrypts the message.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2016f",
+		"problem": "Given a list of lines, gives the order in which each letter appears.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2016g",
+		"problem": "Lists the order of boxes to check to carry out a binary search.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2016h",
+		"problem": "Given a list of politicans and actions taken, assigns points and outputs the best, and worst, politican of the week.",
+		"problemSource": "NZPC 2016",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016h.py",
+		"points": "10"
 	}
 ]

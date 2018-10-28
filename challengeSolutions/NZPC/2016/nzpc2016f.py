@@ -1,9 +1,7 @@
+# Problem F 2016 - Connor Mattson
+
 letters = []
-
-for i in range(int(input())):
-	data = input().strip()
-	for j in data:
-		if j not in letters and j != ' ':
-			letters.append(j)
-
+for i in range(int(input("How many lines are to be entered? "))):
+	sentence = list(input("Enter line {}: ".format(i + 1)))
+	letters.extend(sorted(set([x for x in sentence if x not in letters and x != ' ']), key=sentence.index))
 print(''.join(letters))
