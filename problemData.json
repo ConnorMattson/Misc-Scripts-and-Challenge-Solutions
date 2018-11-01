@@ -561,10 +561,74 @@
 	},
 	{
 		"filename": "nzpc2016h",
-		"problem": "Given a list of politicans and actions taken, assigns points and outputs the best, and worst, politican of the week.",
+		"problem": "Given a list of politicians and actions taken, assigns points and outputs the best, and worst, politician of the week.",
 		"problemSource": "NZPC 2016",
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2016.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2016/nzpc2016h.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2017a",
+		"problem": "Checks whether the angles in a 'triangle' add to 180.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2017b",
+		"problem": "Given a stream of data, outputs the current score and whether the game has ended or not.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2017c",
+		"problem": "Given the number of stations clockwise or anticlockwise, Hilary moves, checks whether she visits at least 5 stations without any repeats.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2017d",
+		"problem": "Given a sequence of musical notes (in this case letters A-G), determines whether the notes are discordant according to special rules.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2017e",
+		"problem": "Given a list of bytes and a parity byte, identifies the broken bit.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2017f",
+		"problem": "Given the chairs removed, and number of moves made over various musical chairs rounds, finds which of the original players have been eliminated.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2017g",
+		"problem": "Prints a bar graph showing the frequency of each letter in a given string.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2017h",
+		"problem": "Takes a list of soccer teams and data about them, plus a list of games not included in the data, and updates the data - printing the teams ordered by points, then goal difference, then goals scored, and finally alphabetically.",
+		"problemSource": "NZPC 2017",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017h.py",
 		"points": "10"
 	}
 ]
