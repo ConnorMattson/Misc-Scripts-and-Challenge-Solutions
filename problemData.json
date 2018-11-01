@@ -630,5 +630,69 @@
 		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2017.pdf",
 		"githubLink": "/challengeSolutions/NZPC/2017/nzpc2017h.py",
 		"points": "10"
+	},
+	{
+		"filename": "nzpc2018a",
+		"problem": "Tracks the total passengers who use a bus service, and the highest number of passengers onboard at any one time.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018a.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2018b",
+		"problem": "After sorting a list of toys alphabetically, pairs the first and last, second and second to last etc.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018b.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2018c",
+		"problem": "Given data from various Monty Hall problems, outputs whether switching doors was better or worse than keeping the original choice.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018c.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2018d",
+		"problem": "Checks whether an event occurs before or after the 15th September (the date of the 2018 NZPC).",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018d.py",
+		"points": "3"
+	},
+	{
+		"filename": "nzpc2018e",
+		"problem": "Given data about each course in a cooking competition, identifies the winner of the bonus round, and prints who gets immunity and who is sent home.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018e.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2018f",
+		"problem": "Given data about customers' purchases and the time it takes for them to be delivered, finds the number of unhappy customers.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018f.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2018g",
+		"problem": "Reverses every part of a string that is not a number.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018g.py",
+		"points": "10"
+	},
+	{
+		"filename": "nzpc2018h",
+		"problem": "Given the points each player scored in their matches, works out who won which games and who won the overall tournament.",
+		"problemSource": "NZPC 2018",
+		"problemLink": "https://www.cs.auckland.ac.nz/~mjd/prog_contest/problems/NZPC2018.pdf",
+		"githubLink": "/challengeSolutions/NZPC/2018/nzpc2018h.py",
+		"points": "10"
 	}
 ]

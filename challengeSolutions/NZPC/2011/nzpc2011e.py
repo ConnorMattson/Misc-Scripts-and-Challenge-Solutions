@@ -1,4 +1,4 @@
-# Problem E 2010 - Connor Mattson
+# Problem E 2011 - Connor Mattson
 
 print("Instructions:\nEnter the smallest and largest house number followed by 0 to indicate 0 gaps, e.g. '10 20 0' to supply houses 10-20")
 print("In place of 0, insert n for n gaps followed by the smallest and largest house numbers in the gap followed by A (all), E (even) or O (odd)")

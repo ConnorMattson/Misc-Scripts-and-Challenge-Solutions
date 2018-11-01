@@ -1,4 +1,4 @@
-# Problem F 2010 - Connor Mattson
+# Problem F 2011 - Connor Mattson
 
 weekData = int(input("Enter the number of weeks worth of data: "))
 weekNumber = 1

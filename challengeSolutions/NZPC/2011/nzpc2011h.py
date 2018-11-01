@@ -1,4 +1,4 @@
-# Problem H 2010 - Connor Mattson
+# Problem H 2011 - Connor Mattson
 
 counterMap = {0: '*', 1: '?', 2: '/', 3: '+', 4: '!'}
 

@@ -1,4 +1,4 @@
-# Problem C 2010 - Connor Mattson
+# Problem C 2011 - Connor Mattson
 
 coordinates = input("Enter dig length and width, e.g. '4 8' or '0 0' to exit: ")
 while coordinates != "0 0":

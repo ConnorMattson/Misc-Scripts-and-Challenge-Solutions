@@ -1,4 +1,4 @@
-# Problem D 2010 - Connor Mattson
+# Problem D 2011 - Connor Mattson
 
 n = int(input("Enter the number of towns Bob has visited: "))
 week = 1

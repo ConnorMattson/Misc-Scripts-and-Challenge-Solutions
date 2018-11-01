@@ -1,4 +1,4 @@
-# Problem B 2010 - Connor Mattson
+# Problem B 2011 - Connor Mattson
 
 lineInput = [int(x) for x in input("Enter the sequence of cards ending in * e.g. 'A 2 5 A *' or '#' to exit: ").replace("A", "1").split(' ')[:-1]]
 while len(lineInput) != 0:
